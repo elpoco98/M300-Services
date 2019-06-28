@@ -1,6 +1,6 @@
-#
-#	Einfache Apache Umgebung
-#
+# Vincent Halrwe
+# St16c
+#	
 FROM ubuntu:14.04
 MAINTAINER Marcel mc-b Bernet <marcel.bernet@ch-open.ch>
 
